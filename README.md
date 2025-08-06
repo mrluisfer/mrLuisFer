@@ -1,27 +1,52 @@
 <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height="40px">Hello World!</h1>
 
-  
-### 💫 About Me:
-👨‍💻 I'm a passionate Frontend Developer.<br>
-🌱 Always learning and exploring new technologies.<br>
-💙 I love building and experimenting with both Frontend & Backend tools.<br>
-🌟 Check out my projects here on GitHub.<br>
-📝 Feel free to reach out if you want to talk about Web technologies or anything tech!<br>
-📫 Contact me via [LinkedIn](https://www.linkedin.com/in/tu-linkedin) or by email: mrluisfeer@gmail.com.<br>
-☁️ I also enjoy sharing articles and insights on [Dev.to](https://dev.to/tuusuario).
+### 💫 About Me
 
+- 👨‍💻 I’m a Frontend Software Engineer with over 4 years of experience building scalable, high-performance web applications using modern technologies like React, Next.js, TypeScript, and Node.js.
 
+- ⚙️ I focus on clean code, performance optimization, and creating maintainable solutions that provide real business value.
 
-### 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mrluisfeer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrluisfer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mrluisfer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_mrluisfer)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mrluisfeer@gmail.com)
+- 🌱 I’m a strong advocate of continuous learning, cross-functional collaboration, and knowledge sharing across teams.
 
+- 🧠 I enjoy working on both frontend and backend tooling, and I’ve also contributed to improving developer experience and product architecture in fast-paced environments.
 
-### 💻 Tech Stack:
+- 🚀 Some of my recent work includes component design systems, API integrations, A/B testing frameworks, and performance monitoring setups using tools like Sentry, GA4, and Vite.
 
+- 📚 You can find some of my work and side projects right here on GitHub.
+
+- 📫 Feel free to reach out via LinkedIn or by email at [mrluisfeer@gmail.com](mailto:mrluisfeer@gmail.com).
+
+- ☁️ Always open to exchanging ideas about frontend engineering, product thinking, and technology that moves people forward.
+
+### 🌐 Socials
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mrluisfeer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrluisfer)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mrluisfer)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_mrluisfer)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mrluisfeer@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/mrluisfer)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/mrLuisFer)
+
+### Main Languages
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=flat&logo=SQL&logoColor=white)
+
+![Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 💻 Full Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
@@ -120,19 +145,30 @@
 ![Cypress](https://img.shields.io/badge/cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)
+![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)
+![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)
 
+### 📊 GitHub Stats
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrLuisFer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrLuisFer&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Readme Commit Stats](https://github-readme-stats.vercel.app/api?username=mrLuisFer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrLuisFer&theme=transparent&hide_border=false)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrLuisFer&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+![Github Profile Trophy: S+](https://github-profile-trophy.vercel.app/?username=mrLuisFer&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=mrLuisFer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Visit Count: +1k](https://visitcount.itsvg.in/api?id=mrLuisFer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Cat on line](./assets/cat-on-line.svg)
