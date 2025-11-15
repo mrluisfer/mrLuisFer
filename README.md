@@ -2,7 +2,7 @@
 
 ### 💫 About Me
 
-- 👨‍💻 I’m a Frontend Software Engineer with over 4 years of experience building scalable, high-performance web applications using modern technologies like **React**, **Next.js**, **TypeScript**, and **Node.js**.
+- 👨‍💻 I’m a Full-Stack Engineer with over 4 years of experience building scalable, high-performance web applications using modern technologies like **React**, **Next.js**, **TypeScript**, and **Node.js**.
 
 - ⚙️ I focus on **clean code**, **performance optimization**, and creating **maintainable solutions** that provide real business value.
 
