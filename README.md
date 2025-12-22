@@ -259,8 +259,4 @@
 ![Readme Commit Stats](https://github-readme-stats.vercel.app/api?username=mrLuisFer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrLuisFer&theme=transparent&hide_border=false)
 
-![About Me using Code with TypeScript](./assets/profile-code.png)
-
-<!-- [![Visit Count: +1k](https://visitcount.itsvg.in/api?id=mrLuisFer&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
 ![Cat on line](./assets/cat-on-line.svg)
