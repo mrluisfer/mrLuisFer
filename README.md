@@ -1,8 +1,8 @@
 <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height="40px"> Hey, I'm Luis Alvarez</h1>
 
-### Full-Stack Software Engineer
+### Frontend Developer
 
-I build scalable, high-performance web applications with a focus on **clean architecture**, **performance optimization**, and **developer experience**. Currently working at a financial services company in Mexico, where I develop full-stack solutions handling critical operations.
+I build scalable, high-performance web applications with a focus on **clean architecture**, **performance optimization**, and **developer experience**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrluisfer)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mrluisfer)
@@ -30,6 +30,9 @@ I build scalable, high-performance web applications with a focus on **clean arch
 | **Nowports** | Software Engineer | Component platforms, AI chatbot interfaces, API migrations, performance monitoring |
 | **Accenture** | Frontend Developer | UI/UX improvements, accessibility standards, agile delivery |
 
+#### Currently On
+
+Currently working at a financial services company in Mexico, where I develop full-stack solutions handling critical operations.
 ---
 
 ### 🛠 Tech Stack
