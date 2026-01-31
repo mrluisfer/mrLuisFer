@@ -33,6 +33,7 @@ I build scalable, high-performance web applications with a focus on **clean arch
 #### Currently On
 
 Currently working at a financial services company in Mexico, where I develop full-stack solutions handling critical operations.
+
 ---
 
 ### 🛠 Tech Stack
