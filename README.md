@@ -63,22 +63,18 @@ I craft scalable frontend architectures and component systems that teams actuall
 
 | | Project | What it does |
 |---|---------|--------------|
-| 🌟 | [**Linktry**](https://github.com/mrluisfer/linktry) | Developer-focused Linktree alternative with full customization |
+| 🍱 | [**Bento Me**](https://github.com/mrluisfer/bento-me) | Building my own bento.me alternative with Astro |
 | ⚡ | [**SEO Generator**](https://github.com/mrluisfer/seo-generator) | Meta tags generator with live preview — Next.js + Chakra UI |
-| 🎮 | **Impostor Game** | Multiplayer word guessing with Mexican cultural content |
+| 🎮 | [**Impostor Game**](https://github.com/mrluisfer/impostor-game) | Multiplayer word guessing with Mexican cultural content |
 | 🧩 | [**JS Challenges Hub**](https://github.com/mrluisfer/js-challenges-hub) | Frontend Mentor challenges collection in one place |
 | ⌨️ | [**Neovim Config**](https://github.com/mrluisfer/nvim) | Custom IDE setup optimized for frontend development |
-
-<details>
-<summary><strong>Currently exploring</strong></summary>
-
-<br>
-
-- 🏝️ **Bento Portfolio** — Building my own bento.me alternative with Astro
-- 📱 **React Native + Expo** — Mobile development exploration
-- 🗓️ **Subscription Calendar** — Next.js app with better-auth & NeonDB
-
-</details>
+| 💵 | [**Monfly**](https://github.com/mrluisfer/monfly) | Monfly is a modern, full-stack personal finance dashboard that helps you track transactions, categorize expenses, set budgets, and visualize your money—all in one place. |
+| 🎋 | [**Bambu**](https://github.com/mrluisfer/bambu) | A landing page about professional computer and device maintenance, tailored to your needs. |
+| 📔 | [**Cover Letter / Blog**](https://github.com/mrluisfer/mrluisfer-blog) | My custom cover letter with some personal posts about thech/frontend world |
+| 🗂️ | [**Js-Challenges-Hub**](https://github.com/mrluisfer/js-challenges-hub) | Multiple Frontend Mentor challenges to avoid having multiple free hostings and keeping learning. |
+| 🔍 | [**Github Profile Finder**](https://github.com/mrluisfer/gh-card-profile) | This is a simple project, based on a Frontend Mentor challenge, a github user profile finder, which uses Octokit to use the github api and Vite to load all the files in a minified package |
+| 🌱 | [**Git Guide**](https://github.com/mrluisfer/git-guide) | A basic guide to the most necessary commands for using Git with github or gitlab in Spanish |
+| 🗓️ | [**Track0 - Subscription Calendar**](https://github.com/mrluisfer/track0) | subscription tracker with superpowers made with Nextjs and better-auth & NeonDB |
 
 ---
 
