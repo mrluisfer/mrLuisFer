@@ -1,7 +1,7 @@
-<h1 align="center">Luis Alvarez</h1>
+<h1 align="center">Luis Alvarez - Frontend Developer</h1>
 
-<p align="center" style="font-size:22px;">
-  <strong>Frontend Developer</strong>
+<p align="center">
+  <strong>Building modern web that feel right</strong>
 </p>
 
 <p align="center">
@@ -26,8 +26,6 @@
 </p>
 
 <br>
-
----
 
 <h3 align="center">Experience</h3>
 
@@ -63,8 +61,6 @@
   </samp>
 </p>
 
----
-
 <h3 align="center">Stack</h3>
 
 <p align="center">
@@ -80,8 +76,6 @@
     <b>Tools</b> · Vite · Vercel · Sentry · pnpm · Git
   </samp>
 </p>
-
----
 
 <h3 align="center">Projects</h3>
 
@@ -111,8 +105,6 @@
   </samp>
 </p>
 
----
-
 <h3 align="center">Background</h3>
 
 <p align="center">
@@ -124,8 +116,6 @@
     <b>Languages:</b> Spanish (Native) · English (C1)
   </samp>
 </p>
-
----
 
 <br>
 
