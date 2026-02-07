@@ -75,6 +75,7 @@ I craft scalable frontend architectures and component systems that teams actuall
 | 🔍 | [**Github Profile Finder**](https://github.com/mrluisfer/gh-card-profile) | This is a simple project, based on a Frontend Mentor challenge, a github user profile finder, which uses Octokit to use the github api and Vite to load all the files in a minified package |
 | 🌱 | [**Git Guide**](https://github.com/mrluisfer/git-guide) | A basic guide to the most necessary commands for using Git with github or gitlab in Spanish |
 | 🗓️ | [**Track0 - Subscription Calendar**](https://github.com/mrluisfer/track0) | subscription tracker with superpowers made with Nextjs and better-auth & NeonDB |
+| 🍦 | [**Google React**](https://github.com/mrluisfer/google-react) | This is a mini project to create the Google homepage using React and TailwindCss |
 
 ---
 
