@@ -31,11 +31,11 @@
 
 <p align="center">
   <samp>
-    <b>CredixGS</b> · Frontend Engineer · <em>2024 – Present</em>
+    <b><code>CredixGS · Frontend Engineer</code> · <em>2024 – Present</em></b>
     <br>
     Financial platform solutions · Full-stack development · Scalable product delivery
     <br><br>
-    <b>Nowports</b> · Frontend Engineer · <em>2022 – 2024</em>
+    <b><code>Nowports · Frontend Engineer</code> · <em>2022 – 2024</em></b>
     <br>
     50+ component design system (React, Remix-UI, React Aria)
     <br>
@@ -53,7 +53,7 @@
     <br>
     Active code reviewer — maintaining quality standards &amp; mentoring peers
     <br><br>
-    <b>Accenture</b> · Frontend Developer · <em>2021 – 2022</em>
+    <b><code>Accenture · Frontend Developer</code> · <em>2021 – 2022</em></b>
     <br>
     UI/UX improvements across landing pages &amp; product surfaces
     <br>
@@ -65,15 +65,16 @@
 
 <p align="center">
   <samp>
-    <b>Frontend</b> · React · Next.js · Astro · TypeScript · Vue.js
+    <b><code>Frontend</code></b> · React · Next.js · Astro · TypeScript · Vue.js · Svelte.js · HTML/CSS · JavaScript
     <br>
-    <b>Styling</b> · Tailwind CSS · shadcn/ui · Framer Motion · GSAP
+    <b><code>Backend</code></b> · Node.js · NestJS · Prisma · NeonDB · PHP · Laravel · Drizzle
+    <b>Styling</b> · Tailwind CSS · shadcn/ui · Framer Motion · GSAP · SASS · DaisyUI · MaterialUI · ChakraUI · RadixUI · BaseUi
     <br>
-    <b>State</b> · TanStack Query · Zustand · Redux
+    <b><code>State</code></b> · TanStack Query · Zustand · Redux · Jotai · React Context
     <br>
-    <b>Testing</b> · Vitest · Cypress · Playwright · Storybook
+    <b><code>Testing</code></b> · Vitest · Cypress · Playwright · Storybook · Jest
     <br>
-    <b>Tools</b> · Vite · Vercel · Sentry · pnpm · Git
+    <b><code>Tools</code></b> · Vite · Vercel · Sentry · pnpm · Git · Netlify · Vercel · Cursor · Claude · N8N
   </samp>
 </p>
 
