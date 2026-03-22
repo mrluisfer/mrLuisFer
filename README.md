@@ -1,10 +1,10 @@
-<h1 align="center">Luis Alvarez - Frontend Developer</h1>
+<h1>Luis Alvarez - Frontend Developer</h1>
 
-<p align="center">
+<p>
   <strong>Building modern web that feel right</strong>
 </p>
 
-<p align="center">
+<p>
   <samp>
     <a href="https://mrluisfer.vercel.app">portfolio</a> ·
     <a href="https://linkedin.com/in/mrluisfer">linkedin</a> ·
@@ -16,7 +16,7 @@
 
 <br>
 
-<p align="center">
+<p>
   <samp>
     I build scalable frontend architectures and component systems that teams actually want to use.<br>
     Focused on <b>accessibility</b>, <b>performance</b>, and turning complex requirements into intuitive experiences.<br>
@@ -27,9 +27,9 @@
 
 <br>
 
-<h3 align="center">Experience</h3>
+<h3>Experience</h3>
 
-<p align="center">
+<p>
   <samp>
     <b><code>CredixGS · Frontend Engineer</code> · <em>2024 – Present</em></b>
     <br>
@@ -61,9 +61,9 @@
   </samp>
 </p>
 
-<h3 align="center">Stack</h3>
+<h3>Stack</h3>
 
-<p align="center">
+<p>
   <samp>
     <b><code>Frontend</code></b> · React · Next.js · Astro · TypeScript · Vue.js · Svelte.js · HTML/CSS · JavaScript
     <br>
@@ -78,9 +78,9 @@
   </samp>
 </p>
 
-<h3 align="center">Projects</h3>
+<h3>Projects</h3>
 
-<p align="center">
+<p>
   <samp>
     🍱 <a href="https://github.com/mrluisfer/bento-me"><b>Bento Me</b></a> · My own bento.me alternative built with Astro
     <br>
@@ -108,9 +108,9 @@
   </samp>
 </p>
 
-<h3 align="center">Background</h3>
+<h3>Background</h3>
 
-<p align="center">
+<p>
   <samp>
     <b>B.S. Systems Engineering</b> @ Instituto Tecnológico de Morelia — <em>In Progress</em>
     <br><br>
@@ -122,10 +122,10 @@
 
 <br>
 
-<p align="center">
+<p>
   <img src="./assets/cat-on-line.svg" alt="Cat on line" />
 </p>
 
-<p align="center">
+<p>
   <samp>A ship in harbor is safe, but that is not what ships are built for.</samp>
 </p>
