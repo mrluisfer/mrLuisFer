@@ -103,6 +103,8 @@
     🌱 <a href="https://github.com/mrluisfer/git-guide"><b>Git Guide</b></a> · Essential Git commands guide in Spanish
     <br>
     ⌨️ <a href="https://github.com/mrluisfer/nvim"><b>Neovim Config</b></a> · Custom IDE setup optimized for frontend dev
+    <br>
+    📅 <a href="https://github.com/mrluisfer/cusana"><b>Cusana</b></a> · Modern subscription tracker designed to help you monitor, manage, and analyze all your recurring subscriptions expenses in one place
   </samp>
 </p>
 
