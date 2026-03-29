@@ -1,28 +1,20 @@
 <h1>Luis Alvarez - Frontend Developer</h1>
 
 <p>
-  <strong>Building modern web that feel right</strong>
-</p>
-
-<p>
-  <samp>
     <a href="https://mrluisfer.vercel.app">portfolio</a> ·
     <a href="https://linkedin.com/in/mrluisfer">linkedin</a> ·
     <a href="https://x.com/_mrluisfer">x/twitter</a> ·
     <a href="mailto:mrluisfeer@gmail.com">email</a> ·
     <a href="https://bento-mrluisfer.vercel.app/">bento</a>
-  </samp>
 </p>
 
 <br>
 
 <p>
-  <samp>
     I build scalable frontend architectures and component systems that teams actually want to use.<br>
     Focused on <b>accessibility</b>, <b>performance</b>, and turning complex requirements into intuitive experiences.<br>
     Improved system performance by <b>60%</b> through strategic API migration and optimization.<br>
     Currently at a financial services company in Mexico, previously shipping features at <b>Nowports</b> and <b>Accenture</b>.
-  </samp>
 </p>
 
 <br>
@@ -31,11 +23,11 @@
 
 <p>
   <samp>
-    <b><code>CredixGS · Frontend Engineer</code> · <em>2024 – Present</em></b>
+    <b>CredixGS · Full-Stack Developer · <em>2024 – Present</em></b>
     <br>
     Financial platform solutions · Full-stack development · Scalable product delivery
     <br><br>
-    <b><code>Nowports · Frontend Engineer</code> · <em>2022 – 2024</em></b>
+    <b>Nowports · Frontend Engineer · <em>2022 – 2024</em></b>
     <br>
     50+ component design system (React, Remix-UI, React Aria)
     <br>
@@ -53,7 +45,7 @@
     <br>
     Active code reviewer — maintaining quality standards &amp; mentoring peers
     <br><br>
-    <b><code>Accenture · Frontend Developer</code> · <em>2021 – 2022</em></b>
+    <b>Accenture · Frontend Developer · <em>2021 – 2022</em></b>
     <br>
     UI/UX improvements across landing pages &amp; product surfaces
     <br>
@@ -81,7 +73,6 @@
 <h3>Projects</h3>
 
 <p>
-  <samp>
     🍱 <a href="https://github.com/mrluisfer/bento-me"><b>Bento Me</b></a> · My own bento.me alternative built with Astro
     <br>
     💵 <a href="https://github.com/mrluisfer/monfly"><b>Monfly</b></a> · Full-stack personal finance dashboard for tracking &amp; budgeting
@@ -105,7 +96,6 @@
     ⌨️ <a href="https://github.com/mrluisfer/nvim"><b>Neovim Config</b></a> · Custom IDE setup optimized for frontend dev
     <br>
     📅 <a href="https://github.com/mrluisfer/cusana"><b>Cusana</b></a> · Modern subscription tracker designed to help you monitor, manage, and analyze all your recurring subscriptions expenses in one place
-  </samp>
 </p>
 
 <h3>Background</h3>
