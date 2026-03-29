@@ -1,4 +1,4 @@
-<h1>Luis Alvarez - Frontend Developer</h1>
+<h1>Luis Alvarez - Software Engineer</h1>
 
 <p>
     <a target="_blank" rel="noopener noreferrer" href="https://mrluisfer.vercel.app">portfolio</a> ·
@@ -8,45 +8,51 @@
     <a target="_blank" rel="noopener noreferrer" href="https://bento-mrluisfer.vercel.app/">bento</a>
 </p>
 
-<br>
-
 <p>
-    I build scalable frontend architectures and component systems that teams actually want to use.<br>
-    Focused on <b>accessibility</b>, <b>performance</b>, and turning complex requirements into intuitive experiences.<br>
-    Improved system performance by <b>60%</b> through strategic API migration and optimization.<br>
-    Currently at a financial services company in Mexico, previously shipping features at <b>Nowports</b> and <b>Accenture</b>.
+    Full-Stack Software Engineer specialized in building scalable, high-performance web applications.<br>
+    I design frontend architectures and component systems that teams actually want to use — focused on <b>accessibility</b>, <b>performance</b>, and <b>clean code architecture</b>.<br>
+    Led API migration that improved system performance by <b>60%</b> and architected a <b>50+ component design system</b> used across an entire organization.<br>
+    Currently building financial platform solutions at <b>CredixGS</b>, previously shipping features at <b>Nowports</b> and <b>Accenture</b>.
 </p>
 
 <h2>Experience</h2>
 
 <p>
-    <b>CredixGS · Full-Stack Developer · <em>2024 – Present</em></b>
+    <b>CredixGS · Full-Stack Engineer · <em>2024 – Present</em></b>
     <br>
-    <samp>Financial platform solutions · Full-stack development · Scalable product delivery</samp>
+    <samp>Core platform development for a financial firm with 15+ years in the Mexican market</samp>
+    <br>
+    <samp>MySQL & MariaDB optimization — schema refinements, query tuning & data integrity</samp>
+    <br>
+    <samp>External API integration — IMSS, INE & Credit Bureau for automated compliance verification</samp>
+    <br>
+    <samp>Legacy code modernization while preserving critical business logic</samp>
+    <br>
+    <samp>Cross-functional collaboration with finance, commercial, legal & UI/UX teams</samp>
     <br><br>
-    <b>Nowports · Frontend Engineer · <em>2022 – 2024</em></b>
+    <b>Nowports · Software Engineer · <em>2022 – 2024</em></b>
     <br>
-    <samp>50+ component design system (React, Remix-UI, React Aria)</samp>
+    <samp>50+ component design system (React, Remix-UI, React Aria) — accelerated delivery cycles org-wide</samp>
     <br>
-    <samp>60% performance boost via API migration &amp; optimization</samp>
+    <samp>60% performance boost via backend API migration with NestJS, Prisma & TypeScript</samp>
     <br>
-    <samp>AI chatbot interface for shipment tracking &amp; support</samp>
+    <samp>AI chatbot interface — cross-functional build with Data team for shipment tracking & support</samp>
     <br>
-    <samp>Analytics infrastructure — GA4, GTM, cookie-based tracking across regions</samp>
+    <samp>Analytics infrastructure — GA4, GTM, cookie management for cross-regional tracking</samp>
     <br>
-    <samp>Next.js + HubSpot blog integration with SSR for content delivery</samp>
+    <samp>Next.js + HubSpot CMS integration with SSR for automated content delivery</samp>
     <br>
-    <samp>Sentry observability for error tracking &amp; API monitoring</samp>
+    <samp>Sentry observability — real-time error tracking, performance profiling & debugging</samp>
     <br>
-    <samp>Landing page refactor with modern stack for long-term scalability</samp>
+    <samp>Cross-functional leadership — coordinating product, design & marketing teams through agile cycles</samp>
     <br>
-    <samp>Active code reviewer — maintaining quality standards &amp; mentoring peers</samp>
+    <samp>Code quality ownership — reviews, best practices documentation & architectural guidance</samp>
     <br><br>
     <b>Accenture · Frontend Developer · <em>2021 – 2022</em></b>
     <br>
-    <samp>UI/UX improvements across landing pages &amp; product surfaces</samp>
+    <samp>UI/UX improvements — interface design, component optimization & accessibility standards (WCAG)</samp>
     <br>
-    <samp>Accessibility standards (WCAG) &amp; component optimizations</samp>
+    <samp>Agile delivery within sprint cycles, collaborating with cross-functional teams</samp>
 </p>
 
 <h2>Stack</h2>
@@ -55,29 +61,38 @@
   <samp>
     <b><code>Frontend</code></b> · React · Next.js · Astro · TypeScript · Vue.js · Svelte.js · HTML/CSS · JavaScript
     <br>
-    <b><code>Backend</code></b> · Node.js · NestJS · Prisma · NeonDB · PHP · Laravel · Drizzle
-    <b>Styling</b> · Tailwind CSS · shadcn/ui · Framer Motion · GSAP · SASS · DaisyUI · MaterialUI · ChakraUI · RadixUI · BaseUi
+    <b><code>Backend</code></b> · Node.js · NestJS · Express · Prisma · Drizzle · PHP · Laravel
+    <br>
+    <b><code>Databases</code></b> · PostgreSQL · MySQL · MariaDB · MongoDB · NeonDB
+    <br>
+    <b><code>Styling</code></b> · Tailwind CSS · shadcn/ui · Framer Motion · GSAP · SASS · DaisyUI · MaterialUI · ChakraUI · RadixUI · BaseUI
     <br>
     <b><code>State</code></b> · TanStack Query · Zustand · Redux · Jotai · React Context
     <br>
     <b><code>Testing</code></b> · Vitest · Cypress · Playwright · Storybook · Jest
     <br>
-    <b><code>Tools</code></b> · Vite · Vercel · Sentry · pnpm · Git · Netlify · Vercel · Cursor · Claude · N8N
+    <b><code>DevOps</code></b> · Docker · Vercel · Netlify · Git · GitHub Actions · CI/CD · Vite · pnpm
+    <br>
+    <b><code>Analytics</code></b> · Google Analytics 4 · Google Tag Manager · Sentry · HubSpot CMS
+    <br>
+    <b><code>Tools</code></b> · Cursor · Claude · N8N · Neovim
   </samp>
 </p>
 
 <h2>Projects</h2>
 
 <p>
-    <a href="https://github.com/mrluisfer/bento-me"><b>Bento Me</b></a> · My own bento.me alternative built with Astro
+    <a href="https://github.com/mrluisfer/monfly"><b>Monfly</b></a> · Full-stack personal finance dashboard for tracking & budgeting
     <br>
-    <a href="https://github.com/mrluisfer/monfly"><b>Monfly</b></a> · Full-stack personal finance dashboard for tracking &amp; budgeting
+    <a href="https://github.com/mrluisfer/cusana"><b>Cusana</b></a> · Modern subscription tracker to monitor, manage & analyze recurring expenses
     <br>
-    <a href="https://github.com/mrluisfer/track0"><b>Track0</b></a> · Subscription tracker with Next.js, better-auth &amp; NeonDB
-    <br>
-    <a href="https://github.com/mrluisfer/seo-generator"><b>SEO Generator</b></a> · Meta tags generator with live preview — Next.js + Chakra UI
+    <a href="https://github.com/mrluisfer/track0"><b>Track0</b></a> · Subscription tracker with Next.js, better-auth & NeonDB
     <br>
     <a href="https://github.com/mrluisfer/impostor-game"><b>Impostor Game</b></a> · Multiplayer word guessing with Mexican cultural content
+    <br>
+    <a href="https://github.com/mrluisfer/bento-me"><b>Bento Me</b></a> · My own bento.me alternative built with Astro
+    <br>
+    <a href="https://github.com/mrluisfer/seo-generator"><b>SEO Generator</b></a> · Meta tags generator with live preview — Next.js + Chakra UI
     <br>
     <a href="https://github.com/mrluisfer/bambu"><b>Bambu</b></a> · Landing page for professional device maintenance services
     <br>
@@ -90,8 +105,6 @@
     <a href="https://github.com/mrluisfer/git-guide"><b>Git Guide</b></a> · Essential Git commands guide in Spanish
     <br>
     <a href="https://github.com/mrluisfer/nvim"><b>Neovim Config</b></a> · Custom IDE setup optimized for frontend dev
-    <br>
-    <a href="https://github.com/mrluisfer/cusana"><b>Cusana</b></a> · Modern subscription tracker designed to help you monitor, manage, and analyze all your recurring subscriptions expenses in one place
 </p>
 
 <h3>Background</h3>
@@ -102,7 +115,7 @@
     <br><br>
     <b>Certs:</b> <code>TypeScript Advanced (Platzi)</code> · <code>Scrum Foundation (CertiProf)</code> · <code>React (CodigoFacilito)</code> · <code>JavaScript (HackerRank, Cisco)</code>
     <br>
-    <b>Languages:</b> Spanish (Native) · English (C1)
+    <b>Languages:</b> Spanish (Native) · English (C1 Advanced)
   </samp>
 </p>
 
