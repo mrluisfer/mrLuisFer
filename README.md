@@ -22,35 +22,35 @@
     <br>
     <samp>Core platform development for a financial firm with 15+ years in the Mexican market</samp>
     <br>
-    <samp>MySQL & MariaDB optimization — schema refinements, query tuning & data integrity</samp>
+    <samp>MySQL &amp; MariaDB optimization — schema refinements, query tuning &amp; data integrity</samp>
     <br>
-    <samp>External API integration — IMSS, INE & Credit Bureau for automated compliance verification</samp>
+    <samp>External API integration — IMSS, INE &amp; Credit Bureau for automated compliance verification</samp>
     <br>
     <samp>Legacy code modernization while preserving critical business logic</samp>
     <br>
-    <samp>Cross-functional collaboration with finance, commercial, legal & UI/UX teams</samp>
+    <samp>Cross-functional collaboration with finance, commercial, legal &amp; UI/UX teams</samp>
     <br><br>
     <b>Nowports · Software Engineer · <em>2022 – 2024</em></b>
     <br>
     <samp>50+ component design system (React, Remix-UI, React Aria) — accelerated delivery cycles org-wide</samp>
     <br>
-    <samp>60% performance boost via backend API migration with NestJS, Prisma & TypeScript</samp>
+    <samp>60% performance boost via backend API migration with NestJS, Prisma &amp; TypeScript</samp>
     <br>
-    <samp>AI chatbot interface — cross-functional build with Data team for shipment tracking & support</samp>
+    <samp>AI chatbot interface — cross-functional build with Data team for shipment tracking &amp; support</samp>
     <br>
     <samp>Analytics infrastructure — GA4, GTM, cookie management for cross-regional tracking</samp>
     <br>
     <samp>Next.js + HubSpot CMS integration with SSR for automated content delivery</samp>
     <br>
-    <samp>Sentry observability — real-time error tracking, performance profiling & debugging</samp>
+    <samp>Sentry observability — real-time error tracking, performance profiling &amp; debugging</samp>
     <br>
-    <samp>Cross-functional leadership — coordinating product, design & marketing teams through agile cycles</samp>
+    <samp>Cross-functional leadership — coordinating product, design &amp; marketing teams through agile cycles</samp>
     <br>
-    <samp>Code quality ownership — reviews, best practices documentation & architectural guidance</samp>
+    <samp>Code quality ownership — reviews, best practices documentation &amp; architectural guidance</samp>
     <br><br>
     <b>Accenture · Frontend Developer · <em>2021 – 2022</em></b>
     <br>
-    <samp>UI/UX improvements — interface design, component optimization & accessibility standards (WCAG)</samp>
+    <samp>UI/UX improvements — interface design, component optimization &amp; accessibility standards (WCAG)</samp>
     <br>
     <samp>Agile delivery within sprint cycles, collaborating with cross-functional teams</samp>
 </p>
@@ -82,11 +82,11 @@
 <h2>Projects</h2>
 
 <p>
-    <a href="https://github.com/mrluisfer/monfly"><b>Monfly</b></a> · Full-stack personal finance dashboard for tracking & budgeting
+    <a href="https://github.com/mrluisfer/monfly"><b>Monfly</b></a> · Full-stack personal finance dashboard for tracking &amp; budgeting
     <br>
-    <a href="https://github.com/mrluisfer/cusana"><b>Cusana</b></a> · Modern subscription tracker to monitor, manage & analyze recurring expenses
+    <a href="https://github.com/mrluisfer/cusana"><b>Cusana</b></a> · Modern subscription tracker to monitor, manage &amp; analyze recurring expenses
     <br>
-    <a href="https://github.com/mrluisfer/track0"><b>Track0</b></a> · Subscription tracker with Next.js, better-auth & NeonDB
+    <a href="https://github.com/mrluisfer/track0"><b>Track0</b></a> · Subscription tracker with Next.js, better-auth &amp; NeonDB
     <br>
     <a href="https://github.com/mrluisfer/impostor-game"><b>Impostor Game</b></a> · Multiplayer word guessing with Mexican cultural content
     <br>
