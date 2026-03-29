@@ -1,11 +1,11 @@
 <h1>Luis Alvarez - Frontend Developer</h1>
 
 <p>
-    <a href="https://mrluisfer.vercel.app">portfolio</a> ·
-    <a href="https://linkedin.com/in/mrluisfer">linkedin</a> ·
-    <a href="https://x.com/_mrluisfer">x/twitter</a> ·
-    <a href="mailto:mrluisfeer@gmail.com">email</a> ·
-    <a href="https://bento-mrluisfer.vercel.app/">bento</a>
+    <a target="_blank" rel="noopener noreferrer" href="https://mrluisfer.vercel.app">portfolio</a> ·
+    <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/mrluisfer">linkedin</a> ·
+    <a target="_blank" rel="noopener noreferrer" href="https://x.com/_mrluisfer">x/twitter</a> ·
+    <a target="_blank" rel="noopener noreferrer" href="mailto:mrluisfeer@gmail.com">email</a> ·
+    <a target="_blank" rel="noopener noreferrer" href="https://bento-mrluisfer.vercel.app/">bento</a>
 </p>
 
 <br>
@@ -17,43 +17,39 @@
     Currently at a financial services company in Mexico, previously shipping features at <b>Nowports</b> and <b>Accenture</b>.
 </p>
 
-<br>
-
-<h3>Experience</h3>
+<h2>Experience</h2>
 
 <p>
-  <samp>
     <b>CredixGS · Full-Stack Developer · <em>2024 – Present</em></b>
     <br>
-    Financial platform solutions · Full-stack development · Scalable product delivery
+    <samp>Financial platform solutions · Full-stack development · Scalable product delivery</samp>
     <br><br>
     <b>Nowports · Frontend Engineer · <em>2022 – 2024</em></b>
     <br>
-    50+ component design system (React, Remix-UI, React Aria)
+    <samp>50+ component design system (React, Remix-UI, React Aria)</samp>
     <br>
-    60% performance boost via API migration &amp; optimization
+    <samp>60% performance boost via API migration &amp; optimization</samp>
     <br>
-    AI chatbot interface for shipment tracking &amp; support
+    <samp>AI chatbot interface for shipment tracking &amp; support</samp>
     <br>
-    Analytics infrastructure — GA4, GTM, cookie-based tracking across regions
+    <samp>Analytics infrastructure — GA4, GTM, cookie-based tracking across regions</samp>
     <br>
-    Next.js + HubSpot blog integration with SSR for content delivery
+    <samp>Next.js + HubSpot blog integration with SSR for content delivery</samp>
     <br>
-    Sentry observability for error tracking &amp; API monitoring
+    <samp>Sentry observability for error tracking &amp; API monitoring</samp>
     <br>
-    Landing page refactor with modern stack for long-term scalability
+    <samp>Landing page refactor with modern stack for long-term scalability</samp>
     <br>
-    Active code reviewer — maintaining quality standards &amp; mentoring peers
+    <samp>Active code reviewer — maintaining quality standards &amp; mentoring peers</samp>
     <br><br>
     <b>Accenture · Frontend Developer · <em>2021 – 2022</em></b>
     <br>
-    UI/UX improvements across landing pages &amp; product surfaces
+    <samp>UI/UX improvements across landing pages &amp; product surfaces</samp>
     <br>
-    Accessibility standards (WCAG) &amp; component optimizations
-  </samp>
+    <samp>Accessibility standards (WCAG) &amp; component optimizations</samp>
 </p>
 
-<h3>Stack</h3>
+<h2>Stack</h2>
 
 <p>
   <samp>
@@ -70,32 +66,32 @@
   </samp>
 </p>
 
-<h3>Projects</h3>
+<h2>Projects</h2>
 
 <p>
-    🍱 <a href="https://github.com/mrluisfer/bento-me"><b>Bento Me</b></a> · My own bento.me alternative built with Astro
+    <a href="https://github.com/mrluisfer/bento-me"><b>Bento Me</b></a> · My own bento.me alternative built with Astro
     <br>
-    💵 <a href="https://github.com/mrluisfer/monfly"><b>Monfly</b></a> · Full-stack personal finance dashboard for tracking &amp; budgeting
+    <a href="https://github.com/mrluisfer/monfly"><b>Monfly</b></a> · Full-stack personal finance dashboard for tracking &amp; budgeting
     <br>
-    🗓️ <a href="https://github.com/mrluisfer/track0"><b>Track0</b></a> · Subscription tracker with Next.js, better-auth &amp; NeonDB
+    <a href="https://github.com/mrluisfer/track0"><b>Track0</b></a> · Subscription tracker with Next.js, better-auth &amp; NeonDB
     <br>
-    ⚡ <a href="https://github.com/mrluisfer/seo-generator"><b>SEO Generator</b></a> · Meta tags generator with live preview — Next.js + Chakra UI
+    <a href="https://github.com/mrluisfer/seo-generator"><b>SEO Generator</b></a> · Meta tags generator with live preview — Next.js + Chakra UI
     <br>
-    🎮 <a href="https://github.com/mrluisfer/impostor-game"><b>Impostor Game</b></a> · Multiplayer word guessing with Mexican cultural content
+    <a href="https://github.com/mrluisfer/impostor-game"><b>Impostor Game</b></a> · Multiplayer word guessing with Mexican cultural content
     <br>
-    🎋 <a href="https://github.com/mrluisfer/bambu"><b>Bambu</b></a> · Landing page for professional device maintenance services
+    <a href="https://github.com/mrluisfer/bambu"><b>Bambu</b></a> · Landing page for professional device maintenance services
     <br>
-    📔 <a href="https://github.com/mrluisfer/mrluisfer-blog"><b>Blog</b></a> · Personal posts about the frontend world
+    <a href="https://github.com/mrluisfer/mrluisfer-blog"><b>Blog</b></a> · Personal posts about the frontend world
     <br>
-    🧩 <a href="https://github.com/mrluisfer/js-challenges-hub"><b>JS Challenges Hub</b></a> · Frontend Mentor challenges collection in one place
+    <a href="https://github.com/mrluisfer/js-challenges-hub"><b>JS Challenges Hub</b></a> · Frontend Mentor challenges collection in one place
     <br>
-    🔍 <a href="https://github.com/mrluisfer/gh-card-profile"><b>GitHub Profile Finder</b></a> · GitHub user search using Octokit + Vite
+    <a href="https://github.com/mrluisfer/gh-card-profile"><b>GitHub Profile Finder</b></a> · GitHub user search using Octokit + Vite
     <br>
-    🌱 <a href="https://github.com/mrluisfer/git-guide"><b>Git Guide</b></a> · Essential Git commands guide in Spanish
+    <a href="https://github.com/mrluisfer/git-guide"><b>Git Guide</b></a> · Essential Git commands guide in Spanish
     <br>
-    ⌨️ <a href="https://github.com/mrluisfer/nvim"><b>Neovim Config</b></a> · Custom IDE setup optimized for frontend dev
+    <a href="https://github.com/mrluisfer/nvim"><b>Neovim Config</b></a> · Custom IDE setup optimized for frontend dev
     <br>
-    📅 <a href="https://github.com/mrluisfer/cusana"><b>Cusana</b></a> · Modern subscription tracker designed to help you monitor, manage, and analyze all your recurring subscriptions expenses in one place
+    <a href="https://github.com/mrluisfer/cusana"><b>Cusana</b></a> · Modern subscription tracker designed to help you monitor, manage, and analyze all your recurring subscriptions expenses in one place
 </p>
 
 <h3>Background</h3>
@@ -104,7 +100,7 @@
   <samp>
     <b>B.S. Systems Engineering</b> @ Instituto Tecnológico de Morelia — <em>In Progress</em>
     <br><br>
-    <b>Certs:</b> TypeScript Advanced (Platzi) · Scrum Foundation (CertiProf) · React (CodigoFacilito) · JavaScript (HackerRank, Cisco)
+    <b>Certs:</b> <code>TypeScript Advanced (Platzi)</code> · <code>Scrum Foundation (CertiProf)</code> · <code>React (CodigoFacilito)</code> · <code>JavaScript (HackerRank, Cisco)</code>
     <br>
     <b>Languages:</b> Spanish (Native) · English (C1)
   </samp>
