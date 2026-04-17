@@ -1,4 +1,4 @@
-<h1>Luis Alvarez - Software Engineer</h1>
+<h1>Luis Alvarez — Software Engineer</h1>
 
 <p>
     <a target="_blank" rel="noopener noreferrer" href="https://mrluisfer.vercel.app">portfolio</a> ·
@@ -11,57 +11,30 @@
 <p>
     Full-Stack Software Engineer specialized in building scalable, high-performance web applications.<br>
     I design frontend architectures and component systems that teams actually want to use — focused on <b>accessibility</b>, <b>performance</b>, and <b>clean code architecture</b>.<br>
-    Led API migration that improved system performance by <b>60%</b> and architected a <b>50+ component design system</b> used across an entire organization.<br>
-    Currently building financial platform solutions at <b>CredixGS</b>, previously shipping features at <b>Nowports</b> and <b>Accenture</b>.
+    Currently shipping production software across <b>fintech</b>, <b>logistics</b>, and <b>consulting</b> domains.
 </p>
 
 <h2>Experience</h2>
 
 <p>
-    <b>CredixGS · Full-Stack Engineer · <em>2024 – Present</em></b>
+    <b>Full-Stack Software Engineer</b> @ <a href="https://www.credixgs.com">CredixGS</a> · <em>2025 – Present</em>
     <br>
-    <samp>Core platform development for a financial firm with 15+ years in the Mexican market</samp>
+    <b>Senior Full-Stack Software Engineer</b> @ <a href="https://www.nowports.com">Nowports</a> · <em>2023 – 2024</em>
     <br>
-    <samp>MySQL &amp; MariaDB optimization — schema refinements, query tuning &amp; data integrity</samp>
+    <b>Senior Frontend Engineer</b> @ <a href="https://www.nowports.com">Nowports</a> · <em>2022 – 2023</em>
     <br>
-    <samp>External API integration — IMSS, INE &amp; Credit Bureau for automated compliance verification</samp>
-    <br>
-    <samp>Legacy code modernization while preserving critical business logic</samp>
-    <br>
-    <samp>Cross-functional collaboration with finance, commercial, legal &amp; UI/UX teams</samp>
-    <br><br>
-    <b>Nowports · Software Engineer · <em>2022 – 2024</em></b>
-    <br>
-    <samp>50+ component design system (React, Remix-UI, React Aria) — accelerated delivery cycles org-wide</samp>
-    <br>
-    <samp>60% performance boost via backend API migration with NestJS, Prisma &amp; TypeScript</samp>
-    <br>
-    <samp>AI chatbot interface — cross-functional build with Data team for shipment tracking &amp; support</samp>
-    <br>
-    <samp>Analytics infrastructure — GA4, GTM, cookie management for cross-regional tracking</samp>
-    <br>
-    <samp>Next.js + HubSpot CMS integration with SSR for automated content delivery</samp>
-    <br>
-    <samp>Sentry observability — real-time error tracking, performance profiling &amp; debugging</samp>
-    <br>
-    <samp>Cross-functional leadership — coordinating product, design &amp; marketing teams through agile cycles</samp>
-    <br>
-    <samp>Code quality ownership — reviews, best practices documentation &amp; architectural guidance</samp>
-    <br><br>
-    <b>Accenture · Frontend Developer · <em>2021 – 2022</em></b>
-    <br>
-    <samp>UI/UX improvements — interface design, component optimization &amp; accessibility standards (WCAG)</samp>
-    <br>
-    <samp>Agile delivery within sprint cycles, collaborating with cross-functional teams</samp>
+    <b>Frontend Developer</b> @ <a href="https://www.accenture.com">Accenture</a> · <em>2021 – 2022</em>
 </p>
 
 <h2>Stack</h2>
 
 <p>
   <samp>
-    <b><code>Frontend</code></b> · React · Next.js · Astro · TypeScript · Vue.js · Svelte.js · HTML/CSS · JavaScript
+    <b><code>Languages</code></b> · TypeScript · JavaScript · PHP · SQL · HTML · CSS
     <br>
-    <b><code>Backend</code></b> · Node.js · NestJS · Express · Prisma · Drizzle · PHP · Laravel
+    <b><code>Frontend</code></b> · React · Next.js · Astro · Vue.js · Svelte · TanStack Start
+    <br>
+    <b><code>Backend</code></b> · Node.js · NestJS · Express · Prisma · Drizzle · Laravel
     <br>
     <b><code>Databases</code></b> · PostgreSQL · MySQL · MariaDB · MongoDB · NeonDB
     <br>
@@ -71,9 +44,9 @@
     <br>
     <b><code>Testing</code></b> · Vitest · Cypress · Playwright · Storybook · Jest
     <br>
-    <b><code>DevOps</code></b> · Docker · Vercel · Netlify · Git · GitHub Actions · CI/CD · Vite · pnpm
+    <b><code>Cloud &amp; DevOps</code></b> · Azure · Docker · Vercel · Netlify · Git · GitHub Actions · CI/CD · Vite · pnpm
     <br>
-    <b><code>Analytics</code></b> · Google Analytics 4 · Google Tag Manager · Sentry · HubSpot CMS
+    <b><code>Observability</code></b> · Sentry · Google Analytics 4 · Google Tag Manager · HubSpot CMS
     <br>
     <b><code>Tools</code></b> · Cursor · Claude · N8N · Neovim
   </samp>
