@@ -17,13 +17,13 @@
 <h2>Experience</h2>
 
 <p>
-    <b>Full-Stack Software Engineer</b> @ <a href="https://www.credixgs.com">CredixGS</a> · <em>2025 – Present</em>
+    <b>Full-Stack Software Engineer</b> @ CredixGS · <em>2025 – Present</em>
     <br>
-    <b>Senior Full-Stack Software Engineer</b> @ <a href="https://www.nowports.com">Nowports</a> · <em>2023 – 2024</em>
+    <b>Senior Full-Stack Software Engineer</b> @ Nowports · <em>2023 – 2024</em>
     <br>
-    <b>Senior Frontend Engineer</b> @ <a href="https://www.nowports.com">Nowports</a> · <em>2022 – 2023</em>
+    <b>Senior Frontend Engineer</b> @ Nowports · <em>2022 – 2023</em>
     <br>
-    <b>Frontend Developer</b> @ <a href="https://www.accenture.com">Accenture</a> · <em>2021 – 2022</em>
+    <b>Frontend Developer</b> @ Accenture · <em>2021 – 2022</em>
 </p>
 
 <h2>Stack</h2>
