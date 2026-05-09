@@ -1,13 +1,13 @@
 <h1>Luis Alvarez — Software Engineer</h1>
 
 <p>
+    <b>
     <a target="_blank" rel="noopener noreferrer" href="https://mrluisfer.vercel.app">portfolio</a> ·
     <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/mrluisfer">linkedin</a> ·
     <a target="_blank" rel="noopener noreferrer" href="https://x.com/_mrluisfer">x/twitter</a> ·
     <a target="_blank" rel="noopener noreferrer" href="mailto:mrluisfeer@gmail.com">email</a> ·
     <a target="_blank" rel="noopener noreferrer" href="https://bento-mrluisfer.vercel.app/">bento</a>
-</p>
-
+    </b>
 <p>
     Full-Stack Software Engineer specialized in building scalable, high-performance web applications.<br>
     I design frontend architectures and component systems that teams actually want to use — focused on <b>accessibility</b>, <b>performance</b>, and <b>clean code architecture</b>.<br>
