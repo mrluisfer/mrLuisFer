@@ -1,5 +1,3 @@
-<h1>Luis Alvarez — Software Engineer</h1>
-
 <p>
     <b>
     <a target="_blank" rel="noopener noreferrer" href="https://mrluisfer.vercel.app">portfolio</a> ·
@@ -9,7 +7,7 @@
     <a target="_blank" rel="noopener noreferrer" href="https://bento-mrluisfer.vercel.app/">bento</a>
     </b>
 <p>
-    Full-Stack Software Engineer specialized in building scalable, high-performance web applications.<br>
+    Full-Stack Developer specialized in building scalable, high-performance web & mobile applications.<br>
     I design frontend architectures and component systems that teams actually want to use — focused on <b>accessibility</b>, <b>performance</b>, and <b>clean code architecture</b>.<br>
     Currently shipping production software across <b>fintech</b>, <b>logistics</b>, and <b>consulting</b> domains.
 </p>
