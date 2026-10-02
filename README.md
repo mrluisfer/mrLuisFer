@@ -1,6 +1,10 @@
 <div align="center">
 
-[Portfolio](https://mrluisfer.vercel.app) · [LinkedIn](https://linkedin.com/in/mrluisfer) · [X](https://x.com/_mrluisfer) · [Email](mailto:mrluisfeer@gmail.com) · [Bento](https://bento-mrluisfer.vercel.app/)
+<a href="https://mrluisfer.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/social-media/portfolio.svg" alt="" width="18" height="18" align="absmiddle">&nbsp;Portfolio</a> ·
+<a href="https://linkedin.com/in/mrluisfer" target="_blank" rel="noopener noreferrer"><img src="./assets/social-media/linkedin.svg" alt="" width="18" height="18" align="absmiddle">&nbsp;LinkedIn</a> ·
+<a href="https://x.com/_mrluisfer" target="_blank" rel="noopener noreferrer"><img src="./assets/social-media/twitter.svg" alt="" width="18" height="18" align="absmiddle">&nbsp;X</a> ·
+<a href="mailto:mrluisfeer@gmail.com"><img src="./assets/social-media/gmail.svg" alt="" width="18" height="18" align="absmiddle">&nbsp;Email</a> ·
+<a href="https://bento-mrluisfer.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-media/bento.svg" alt="" width="18" height="18" align="absmiddle">&nbsp;Bento</a>
 
 </div>
 
